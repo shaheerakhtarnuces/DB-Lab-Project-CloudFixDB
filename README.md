@@ -24,7 +24,6 @@ CloudFixDB is a relational database system designed to simulate how cloud infras
 ## 👥 Team Members (Group 19)
 * **Muhammad Shaheer Akhtar** (22P-9392)
 * **Ehsan Saleem** (22P-9205)
-* **Essa Babar** (22P-9175)
+
 
 ---
-*Developed for BCS-6A Database Project*
